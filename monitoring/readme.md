@@ -1,1 +1,1 @@
-monitoring files go here
+Server logs go here
