@@ -1,1 +1,3 @@
-Server logs go here
+# Read me
+
+`Server logs go here`
